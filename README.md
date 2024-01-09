@@ -21,9 +21,7 @@
    <img align="center" alt="AnaVs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-plain.svg">
    <img align="center" alt="Anagit" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" >
 </div>
-  
-  ##
-
+ 
 <div> 
 
   <a href="https://instagram.com/naferreira00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
