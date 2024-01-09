@@ -1,6 +1,8 @@
 ### Olá! Eu me chamo Ana Kelly 👋
 
-Here are some ideas to get you started:
+
+👩🏾‍🎓 Analise e Desenvolvimento de sistema
+👩🏾‍💻 Desenvolveradora Full Stack 
 
  <div>
   <a href="https://github.com/anaferreiira">
